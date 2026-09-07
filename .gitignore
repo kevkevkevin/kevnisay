@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+.node_modules.lock
+
+# Build & Artifacts
+artifacts/
+dist/
+build/
+
+# Local Tooling & Framework Caches
+.grok/
+.tanstack/
+.vercel/
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS Files
+.DS_Store
+Thumbs.db
